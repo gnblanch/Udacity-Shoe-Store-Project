@@ -1,2 +1,2 @@
-# Android
- My Public Android Projects
+# Udacity Shoe Store Project
+ Currently has broken safeArgs implementaton
